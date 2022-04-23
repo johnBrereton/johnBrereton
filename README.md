@@ -1,7 +1,7 @@
 Hi 👋 My name is John Brereton
 ==============================
 * 🖥️  See my portfolio at [jbrereton.com](http://jbrereton.com)
-* ✉️  You can contact me at [john@jbrereton.com](mailto:john@jbrereton.com)
+* ✉️  Contact me at [john@jbrereton.com](mailto:john@jbrereton.com)
 
 ### Skills
 
