@@ -2,7 +2,6 @@ Hi 👋 My name is John Brereton
 ==============================
 * 🖥️  See my portfolio at [jbrereton.com](http://jbrereton.com)
 * ✉️  Contact me at [john@jbrereton.com](mailto:john@jbrereton.com)
-* 🧠  I'm currently learning C# & .NET
 
 ### Skills
 
